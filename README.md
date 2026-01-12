@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Run the main analysis pipeline:
 ```bash
-python sales-analysis/scripts/main.py
+python scripts/main.py
 ```
 
 ## What the Main Script Does
